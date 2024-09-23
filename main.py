@@ -1,7 +1,7 @@
 '''This is main.py. It includes the main functions and events of the program, and imports the conversion factor functions from conversions.py. 
 Again, these are separate .py files, as conversions.py will be imported in this file.'''
 
-#APPT - Unit Converter
+#Unit Converter
 from decimal import *
 from conversions import *
 
