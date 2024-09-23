@@ -1,3 +1,7 @@
+# Unit Converter
+# Kaden Christie
+# Last Updated 2/1/23
+
 '''This is main.py. It includes the main functions and events of the program, and imports the conversion factor functions from conversions.py. 
 Again, these are separate .py files, as conversions.py will be imported in this file.'''
 
